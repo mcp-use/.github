@@ -66,7 +66,7 @@ if __name__ == "__main__":
     asyncio.run(main())
 ```
 
-➡️ **[Create your own with our Builder](https://mcp-use.io/builder)** (Note: This link will need to point to your actual builder page if hosted differently)
+➡️ **[Create your own with our Builder](https://mcp-use.io/builder)**
 
 ## 🚀 Key Features
 
