@@ -6,7 +6,7 @@
   </picture>
 </div>
 
-<h1 align="center">Manufact (formerly mcp-use)</h1>
+<h1 align="center">by Manufact</h1>
 
 <p align="center">
     <a href="https://pypi.org/project/mcp_use/" alt="PyPI Version">
