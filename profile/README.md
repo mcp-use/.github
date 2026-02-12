@@ -36,7 +36,7 @@
 - If you want to get started quickly, check out [manufact.com website](https://manufact.com/) to build and deploy agents with your favorite MCP servers.
 - Visit the [mcp-use docs](https://docs.mcp-use.com/) to get started with mcp-use library.
 - SDK (Python / Typescript): [mcp-use](https://github.com/mcp-use/mcp-use)
-- 
+  
 ## 🧐 What is mcp-use?
 
 `mcp-use` is an open source library that enables developers to connect any LLM to any MCP server, allowing the creation of custom agents with tool access without relying on closed-source or application-specific clients.
